@@ -7,7 +7,8 @@
   * [Description](#challenge-description)
   * [Built With](#built-with)
   * [Installation](#installation)
-  * [Screenshots](#screenshots)
+  * [Usage](#usage)
+  * [Screenshot](#screenshot)
   * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
@@ -25,11 +26,14 @@
   * Sequelize
 
   ## Installation
-  In order to use this script the user must install Node.js on their PC, initialize Node in the command line, and install the files from package.json.
+  In order to view the database the user must install Node.js on their PC, initialize Node in the command line, and install the files from package.json.
   Install Insomnia Core in order to interact with the app.
 
-  ## Screenshots
-  ![Screenshot]()
+  ## Usage
+  The user can access the database files via Insomnia Core. Here they can see all Products, Categories and Tags saved or can select individual ids to view. They can also update and delete these items in the database, as well as add new items (see project video for details).
+
+  ## Screenshot
+  ![Screenshot of All Products in the Database](https://user-images.githubusercontent.com/81491306/126094933-b72ae8ca-4f44-4b64-9b6a-bfc575de449a.png)
 
   ## License
   This project is covered under the Open license.
@@ -48,7 +52,7 @@
   [lchinquee](https://github.com/lchinquee) 
 
   ## Video Link
-  [Link to Video]()
+  [Link to Video](https://drive.google.com/file/d/1JJ_WOVWwiJqKcXX5sffJrSa5l9f-gz0S/view)
 
   ## GitHub Repo
   [Link to GitHub Repo](https://github.com/lchinquee/respera)
